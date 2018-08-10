@@ -1,0 +1,5 @@
+com\example\client\RecommendationClient.class
+com\example\client\MovieClient.class
+com\example\client\ReviewClient.class
+com\example\controller\CompositeController.class
+com\example\demo\CompositeServiceApplication.class
